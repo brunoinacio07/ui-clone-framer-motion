@@ -1,5 +1,5 @@
-import { Header } from './components'
 import { FirstAndSecond } from './components/FirstAndSecond'
+import { Header } from './components/Header'
 import { Main, Section, Sticky } from './styles'
 import { GlobalStyle } from './styles/global'
 

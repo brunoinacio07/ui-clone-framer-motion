@@ -30,9 +30,10 @@ export const Main = styled.main`
         .right-image {
           width: 100%;
           height: 100%;
-          background-image: url('https://github.com/brunoinacio07.png');
+          background-color: #7dbb91;
+          /* background-image: url('https://github.com/brunoinacio07.png');
           background-size: cover;
-          background-position: center;
+          background-position: center; */
         }
       }
     }
@@ -53,11 +54,15 @@ export const Main = styled.main`
   }
 
   .third {
-    background-color: yellow;
+    /* background-color: yellow; */
+    background-color: #f5f1ea;
+    border-bottom: 2px solid #0a7397;
   }
-
+  
   .fourth {
-    background-color: blue;
+    /* background-color: blue; */
+    background-color: #f5f1ea;
+    border-bottom: 1px solid #e6e6e6;
   }
 `
 
